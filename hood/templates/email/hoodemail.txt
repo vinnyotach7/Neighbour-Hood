@@ -1,0 +1,3 @@
+Hello {{name}}
+
+Welcome to my Hood App where you can view all the hoods and choose from the one you like
