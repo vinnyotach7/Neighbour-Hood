@@ -3,3 +3,4 @@ virtual/
 .env
 .pyc/
 .py/
+__pycache__/
